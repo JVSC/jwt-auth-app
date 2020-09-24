@@ -13,7 +13,7 @@ Para executar o projeto.
 | GET    | /user     | Retorna todos os usuarios cadastrados. Autenticado.  |
 | GET    | /user/:id | Retorna usuario por ID ( login ). Autenticado        |
 | POST   | /user     | Cria novo usuario. Autenticado. Master-only.         |
-| PUT    | /user     | Edita e salva alteraçoes. Autemticado.               |
+| PUT    | /user     | Edita e salva alteraçoes. Autenticado.               |
 | DELETE | /user/:id | Deleta usuario. Autenticado. Master-only.            |
 
 
